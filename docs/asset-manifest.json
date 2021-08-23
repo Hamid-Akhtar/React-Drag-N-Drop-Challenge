@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Draag-N-Drop-Challenge/static/css/main.4af4706d.chunk.css",
-    "main.js": "/React-Draag-N-Drop-Challenge/static/js/main.7a50895e.chunk.js",
-    "main.js.map": "/React-Draag-N-Drop-Challenge/static/js/main.7a50895e.chunk.js.map",
-    "runtime-main.js": "/React-Draag-N-Drop-Challenge/static/js/runtime-main.b4a9fd50.js",
-    "runtime-main.js.map": "/React-Draag-N-Drop-Challenge/static/js/runtime-main.b4a9fd50.js.map",
-    "static/js/2.69364459.chunk.js": "/React-Draag-N-Drop-Challenge/static/js/2.69364459.chunk.js",
-    "static/js/2.69364459.chunk.js.map": "/React-Draag-N-Drop-Challenge/static/js/2.69364459.chunk.js.map",
-    "static/js/3.ebe96e74.chunk.js": "/React-Draag-N-Drop-Challenge/static/js/3.ebe96e74.chunk.js",
-    "static/js/3.ebe96e74.chunk.js.map": "/React-Draag-N-Drop-Challenge/static/js/3.ebe96e74.chunk.js.map",
-    "index.html": "/React-Draag-N-Drop-Challenge/index.html",
-    "static/css/main.4af4706d.chunk.css.map": "/React-Draag-N-Drop-Challenge/static/css/main.4af4706d.chunk.css.map",
-    "static/js/2.69364459.chunk.js.LICENSE.txt": "/React-Draag-N-Drop-Challenge/static/js/2.69364459.chunk.js.LICENSE.txt"
+    "main.css": "/React-Drag-N-Drop-Challenge/static/css/main.4af4706d.chunk.css",
+    "main.js": "/React-Drag-N-Drop-Challenge/static/js/main.7a50895e.chunk.js",
+    "main.js.map": "/React-Drag-N-Drop-Challenge/static/js/main.7a50895e.chunk.js.map",
+    "runtime-main.js": "/React-Drag-N-Drop-Challenge/static/js/runtime-main.1b6059aa.js",
+    "runtime-main.js.map": "/React-Drag-N-Drop-Challenge/static/js/runtime-main.1b6059aa.js.map",
+    "static/js/2.69364459.chunk.js": "/React-Drag-N-Drop-Challenge/static/js/2.69364459.chunk.js",
+    "static/js/2.69364459.chunk.js.map": "/React-Drag-N-Drop-Challenge/static/js/2.69364459.chunk.js.map",
+    "static/js/3.ebe96e74.chunk.js": "/React-Drag-N-Drop-Challenge/static/js/3.ebe96e74.chunk.js",
+    "static/js/3.ebe96e74.chunk.js.map": "/React-Drag-N-Drop-Challenge/static/js/3.ebe96e74.chunk.js.map",
+    "index.html": "/React-Drag-N-Drop-Challenge/index.html",
+    "static/css/main.4af4706d.chunk.css.map": "/React-Drag-N-Drop-Challenge/static/css/main.4af4706d.chunk.css.map",
+    "static/js/2.69364459.chunk.js.LICENSE.txt": "/React-Drag-N-Drop-Challenge/static/js/2.69364459.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b4a9fd50.js",
+    "static/js/runtime-main.1b6059aa.js",
     "static/js/2.69364459.chunk.js",
     "static/css/main.4af4706d.chunk.css",
     "static/js/main.7a50895e.chunk.js"
