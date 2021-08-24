@@ -14,8 +14,13 @@ const reducer = (state = initialState, action) => {
     case UPDATE_CRYPTO:
       return {
         ...state,
+        name: action.payload.name,
+        description: action.payload.description.de,
+        images: [action.payload.image],
+        homepageUrl: action.payload.links.homepage,
+        currentPriceUsd: action.payload.market_data.current_price.usd,
+        marketCapUsd: action.payload.market_data.market_cap.usd
       };
-
     default:
       return state;
   }
